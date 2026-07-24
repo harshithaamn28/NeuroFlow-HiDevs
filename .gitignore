@@ -1,0 +1,19 @@
+(# General)
+.env
+__pycache__/
+*.pyc
+node_modules/
+*.db
+chroma/
+mlruns/
+
+# Python
+venv/
+env/
+dist/
+build/
+
+# Node
+npm-debug.log
+yarn-error.log
+
